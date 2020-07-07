@@ -1,0 +1,13 @@
+body{
+    position: absolute;
+    right: 350px;
+    left:400px;
+    width: 500px;
+    bottom: 200px;
+    padding:70px;
+    border: 2px solid red;
+    font-style:sans-serif;
+    font-size: 22px;
+    background-color:lightgrey;
+
+}
